@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for integrating Google Search Grounding with Gemini 3.8 Flash, real-time voice conversations via Gemini 3.8 Live API, and a multi-turn chat assistant with intelligent model routing (Gemini 3.1 Flash Lite, 3.8 Flash, and 4 Argon) into Aura Living & Acoustics.",
+  "updatedAt":  "2026-10-29T07:50:11.019127702Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

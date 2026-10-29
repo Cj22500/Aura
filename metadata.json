@@ -1,0 +1,6 @@
+{
+  "name": "Aura Living & Acoustics",
+  "description": "A full-stack e-commerce showcase demonstrating complete REST CRUD, cart and order state management, data validation, and an interactive Developer Inspector for recruiters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
